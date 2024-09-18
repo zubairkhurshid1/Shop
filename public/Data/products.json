@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "name": "Modern Chair",
+  "description": "A stylish chair for modern homes.",
+  "price": 200,
+  "availability": true,
+  "variants": [
+    {
+      "color": "Red",
+      "size": "Large",
+      "price": 220
+    },
+    {
+      "color": "Blue",
+      "size": "Medium",
+      "price": 200
+    }
+  ],
+  "images": [
+    "https://plus.unsplash.com/premium_photo-1690971631360-c7b4f08b4f94?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://media.istockphoto.com/id/1160551657/photo/new-office-chair-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=d-7CNV4WdM7BoG2f1wlICdTzHr1BSFDWmLvpmY_CvVE=",
+    "https://via.placeholder.com/300x200?text=Chair+3"
+  ],
+  "reviews": [
+    {
+      "user": "Alice",
+      "comment": "Very comfortable!",
+      "rating": 5
+    },
+    {
+      "user": "Bob",
+      "comment": "Looks great in my living room.",
+      "rating": 4
+    }
+  ]
+}
